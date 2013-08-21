@@ -1,0 +1,5 @@
+Contingut fitxer 1 modificat per GitHub2.
+
+Arreclant el bug.
+
+Bug arreclat.
