@@ -1,2 +1,4 @@
 bugjifjeoga
 gesgesgesg
+
+Fitxer bug modificat per GitHub 1
